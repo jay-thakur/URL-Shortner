@@ -4,6 +4,7 @@
 <p> This is a FreeCodeCamp API Project where a user can pass a URL as a parameter and will receive a shortened URL in the JSON response</p>
 
 ### Example Creation Usage:
+<code>https://ms-url-shortner.herokuapp.com/</code> <br>
 <code>https://ms-url-shortner.herokuapp.com/new/https://www.google.com</code> 
 
 ### Example Output:
